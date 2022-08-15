@@ -1,0 +1,10 @@
+[
+  { "titulo": "Terminator", "estado": "Terminada" },
+  { "titulo": "Karate Kid", "estado": "Terminada" },
+  { "titulo": "Rocky V", "estado": "Pendiente" },
+  { "titulo": "Rapidos y Furiosos", "estado": "En progreso" },
+  { "titulo": "El Transportador", "estado": "En progreso" },
+  { "titulo": "Spiderman 2", "estado": "Terminada" },
+  { "titulo": "Esperando la Carroza", "estado": "Pendiente" },
+  { "titulo": "Desarrollar la app de la concesionaria", "estado": "Pendiente" }
+]
